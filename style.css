@@ -74,6 +74,8 @@ body{
 	border: none;
 	width: 400px;
 	color: var(--myBlack);
+	outline: none;
+	box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.5);
 }
 
 .form{
@@ -98,10 +100,6 @@ body{
 .btn{
 	position: absolute;
 	right: 0;
-}
-
-input[type="text"]:focus{
-	outline-color: none;
 }
 
 input::placeholder{
