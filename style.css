@@ -75,7 +75,7 @@ body{
 	width: 400px;
 	color: var(--myBlack);
 	outline: none;
-	box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.5);
+	box-shadow: 6px 6px 20px rgba(122, 122, 122, 1);
 }
 
 .form{
